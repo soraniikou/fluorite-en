@@ -44,13 +44,25 @@ Technical Stack
 - **AI Engine:** Anthropic Claude API (Sonnet)
 - **Visuals:** Custom Particle Disintegration System (CSS Transitions)
 - **Storage:** LocalStorage (Privacy-first: your data stays on your device)
-
----
-
- Vision
+Vision
 Built by an educator and developer with a mission to help 280,000 people live "lighter" by 2027. This app is designed to be a digital sanctuary—a place where technology serves the soul.
 
----
+<img width="688" height="967" alt="スクリーンショット 2026-03-23 142558" src="https://github.com/user-attachments/assets/5ba362f5-c784-4fe1-8cbc-ef831d4c5750" />
 
-📝 License
-This project is for personal emotional exploration and creative expression.
+<img width="715" height="952" alt="スクリーンショット 2026-03-23 142637" src="https://github.com/user-attachments/assets/8cc57578-9981-482f-a332-ec8bd9fa0f30" />     
+
+<img width="667" height="862" alt="スクリーンショット 2026-03-23 142710" src="https://github.com/user-attachments/assets/73cad3fe-4e30-463e-8779-b0e119f5e4d5" />  
+
+<img width="734" height="899" alt="スクリーンショット 2026-03-23 142809" src="https://github.com/user-attachments/assets/025086ed-ff41-4651-a52a-43c0e573ed3f" />
+
+
+<img width="693" height="826" alt="スクリーンショット 2026-03-23 142842" src="https://github.com/user-attachments/assets/a785205d-f0e6-4bce-9cac-116d823fc3e4" />
+<img width="723" height="908" alt="スクリーンショット 2026-03-23 142920" src="https://github.com/user-attachments/assets/332303aa-8967-49ac-ac86-686acf0e3e02" />
+
+
+
+<img width="655" height="878" alt="スクリーンショット 2026-03-23 142950" src="https://github.com/user-attachments/assets/6279dbda-3965-428e-ae52-b5595ff4bcf9" />
+
+<img width="655" height="878" alt="スクリーンショット 2026-03-23 142950" src="https://github.com/user-attachments/assets/9de2fad2-1628-4d76-9d32-ccf7c2ae0bdb" />
+
+
