@@ -63,6 +63,6 @@ Built by an educator and developer with a mission to help 280,000 people live "l
 
 <img width="655" height="878" alt="スクリーンショット 2026-03-23 142950" src="https://github.com/user-attachments/assets/6279dbda-3965-428e-ae52-b5595ff4bcf9" />
 
-<img width="655" height="878" alt="スクリーンショット 2026-03-23 142950" src="https://github.com/user-attachments/assets/9de2fad2-1628-4d76-9d32-ccf7c2ae0bdb" />
+
 
 
