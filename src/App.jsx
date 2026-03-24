@@ -358,7 +358,7 @@ export default function App() {
 
         <div style={{ textAlign: "center", marginBottom: "2rem" }}>
           <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "0.6rem", marginBottom: "0.3rem" }}>
-            <img src="/flow0.png" style={{
+            <img src="/fluorite.png" style={{
               width: 48, height: 48,
               borderRadius: "50%",
               filter: `drop-shadow(0 0 10px ${col.glow})`,
