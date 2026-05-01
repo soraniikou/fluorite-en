@@ -1,6 +1,7 @@
  fluorite 💎
 
- 
+ try↓
+ https://fluorite-en.vercel.app
 > **"Two feelings. One light. Crystallize your conflicting emotions into a poetic truth."**
 
 `fluorite` is a minimalist emotional sanctuary and mindfulness app designed to hold your "Light" (wishes) and "Shadow" (fears) without judgment. Using AI, it transforms your internal conflicts into a single, beautiful "Crystal" of poetic wisdom.
