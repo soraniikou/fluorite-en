@@ -144,8 +144,28 @@ function CrystallizeScreen({ col }) {
           <p style={{ lineHeight: "2.2", fontSize: "1rem", letterSpacing: "0.05em", color: "#e0e0ee" }}>
             {message}
           </p>
+          <a
+            href="https://stand.fm/episodes/69f34acdf911976097785df2"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="fluorite-story-music"
+            style={{
+              display: "block",
+              marginTop: "1.5rem",
+              marginBottom: "0",
+              fontSize: "0.85em",
+              letterSpacing: "0.1em",
+              color: "rgba(150, 220, 255, 0.5)",
+              textAlign: "center",
+              textDecoration: "underline dotted rgba(150, 220, 255, 0.22)",
+              textUnderlineOffset: "0.35em",
+              transition: "color 0.4s ease, text-shadow 0.4s ease, text-decoration-color 0.4s ease",
+            }}
+          >
+            🎵 Listen to the song behind this story
+          </a>
           <button onClick={() => { setPhase("idle"); setLight(""); setShadow(""); setMessage(""); }}
-            style={{ marginTop: "2rem", padding: "0.5rem 1.5rem", background: "transparent",
+            style={{ marginTop: "1.25rem", padding: "0.5rem 1.5rem", background: "transparent",
               border: "1px solid #444", color: "#666", borderRadius: "2rem", cursor: "pointer", fontSize: "0.8rem" }}>
             Again
           </button>
@@ -439,6 +459,11 @@ export default function App() {
         @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
         @keyframes fadeInUp { from { opacity: 0; transform: translateY(20px) } to { opacity: 1; transform: translateY(0) } }
         button:hover:not(:disabled) { opacity: 0.85; }
+        a.fluorite-story-music:hover {
+          color: rgba(185, 238, 255, 0.88);
+          text-shadow: 0 0 10px rgba(130, 210, 255, 0.45), 0 0 22px rgba(100, 160, 255, 0.22);
+          text-decoration-color: rgba(160, 225, 255, 0.45);
+        }
       `}</style>
     </div>
   );
